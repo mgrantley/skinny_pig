@@ -1,0 +1,57 @@
+Scheme
+4-3
+3-4
+
+Style
+West Coast
+Power Run
+Run Heavy
+Read Option
+Pass Rusher
+Run Stopper
+Hybrid
+
+Position
+QB
+HB
+FB
+WR
+LG
+RG
+LT
+RT
+DT
+RE
+LE
+LOLB
+ROLB
+MLB
+CB
+FS
+SS
+P
+K
+
+advanced_stats
+quarter
+distance
+down
+yards_to_go
+formation
+run_right
+run_inside
+run_left
+pass_short_right
+pass_short_middle
+pass_short_left
+pass_med_right
+pass_med_middle
+pass_med_left
+pass_deep_right
+pass_deep_middle
+pass_deep_left
+yards_gained
+touchdown
+interception
+pass_drop
+fumble
